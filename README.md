@@ -5,9 +5,6 @@
 
 </span>
 
-<div align="center">
-<img src="https://i.pinimg.com/originals/0e/10/d3/0e10d3b395a665d5c77e38fa5dcaf378.gif" width="500px" />
-</div>
 
 <p align="center">
   Heey! So good to see you here. <br>I'm Bruno, the great <strong>problem solver</strong>! <br> I am a <strong>IT Analist</strong> also, and I'm doing my academy in <strong>Cloud Computing and Devops (AWS)(azure)</strong>.<br />
