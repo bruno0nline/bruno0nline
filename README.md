@@ -12,7 +12,7 @@ Coding ignites my passion and fuels my dreams of who <strong>I want to become</s
 </p>
 
 <p align="center">
-  Olá! Sou Bruno, um entusiasta de tecnologia com uma paixão especial por <strong>Cloud Computing</strong> e <strong>DevOps</strong>. Atualmente, atuo como <strong>Analista de TI</strong>, focado em soluções de infraestrutura e arquitetura em nuvem (AWS e Azure). Com uma base sólida em gerenciamento de sistemas e automação, estou sempre em busca de novas maneiras de otimizar processos e resolver problemas complexos.
+  Sou um entusiasta de tecnologia com uma paixão especial por <strong>Cloud Computing</strong> e <strong>DevOps</strong>. Atualmente, atuo como <strong>Analista de TI</strong>, focado em soluções de infraestrutura e arquitetura em nuvem (AWS e Azure). Com uma base sólida em gerenciamento de sistemas e automação, estou sempre em busca de novas maneiras de otimizar processos e resolver problemas complexos.
 
   Estou em constante aprendizado e atualmente me aprofundando em tecnologias como <strong>Git, Docker, Kubernetes, Ansible, Terraform</strong> e <strong>Python</strong>. Acredito que a chave para o sucesso em tecnologia é nunca parar de aprender e experimentar novas ferramentas e técnicas.
 
