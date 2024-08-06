@@ -35,7 +35,7 @@ Coding ignites my passion and fuels my dreams of who <strong>I want to become</s
 </p>
 
 <p align="center">
-  🚀  Learning: <strong>Git, Docker, Kebernets, Ansible, Terraform, Phyton, Zabbix, IAAS, SAAS, PAAS</strong>
+  🚀  Learning: <strong>Git, Docker, Kubernets, Ansible, Terraform, Phyton, Zabbix, IAAS, SAAS, PAAS</strong>
 </p>
 
 <p align="center">
