@@ -1,7 +1,7 @@
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Bem-vindo ao meu GitHub!
 
 <p align="center">
-  Olá! Eu sou Bruno, um <strong>Cloud Architect e Infrastructure Analyst</strong> com certificações em <strong>AWS (Solutions Architect Associate & Cloud Practitioner)</strong> e uma paixão por <strong>Cloud Computing</strong> e <strong>DevOps</strong>. <br> 
+  Olá! Eu sou Bruno, um <strong>Cloud Architect e Infrastructure Analyst</strong> com certificações em <strong>AWS (Solutions Architect Associate)</strong> e uma paixão por <strong>Cloud Computing</strong> e <strong>DevOps</strong>. <br> 
   Atualmente, ajudo empresas a transformar sua infraestrutura em soluções escaláveis e inovadoras na nuvem, utilizando práticas modernas e tecnologias avançadas.
 </p>
 
