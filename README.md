@@ -36,8 +36,13 @@
 ### 📜 Certificações
 
 <p align="center">
-  <strong>AWS Certified Solutions Architect - Associate</strong> (2024 - 2027).<br>
-  <strong>AWS Certified Cloud Practitioner</strong> (2022 - 2025).
+  <strong>AWS Certified Solutions Architect - Associate</strong> (2024 - 2027)<br>
+  <img src="https://raw.githubusercontent.com/bruno0nline/Certification/refs/heads/main/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect - Associate" width="150px"/>
+</p>
+
+<p align="center">
+  <strong>AWS Certified Cloud Practitioner</strong> (2022 - 2025)<br>
+  <img src="https://raw.githubusercontent.com/bruno0nline/Certification/refs/heads/main/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="150px"/>
 </p>
 
 ---
