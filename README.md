@@ -1,8 +1,8 @@
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Bem-vindo ao meu GitHub!
 
 <p align="center">
-  Olá! Eu sou Bruno, um <strong>Cloud Architect e Infrastructure Analyst</strong> com certificações em <strong>AWS (Solutions Architect Associate)</strong> e uma paixão por <strong>Cloud Computing</strong> e <strong>DevOps</strong>. <br> 
-  Atualmente, ajudo empresas a transformar sua infraestrutura em soluções escaláveis e inovadoras na nuvem, utilizando práticas modernas e tecnologias avançadas.
+  Olá! Eu sou Bruno, um <strong>Cloud Architect | Infrastructure Analyst & Site Reliability Engineer</strong> apaixonado por <strong>Cloud Computing</strong> e <strong>DevOps</strong>.<br>
+  Atualmente, minha missão é impulsionar a transformação digital, ajudando empresas a construir e gerenciar infraestruturas de nuvem escaláveis, seguras e de alto desempenho.
 </p>
 
 ---
@@ -10,13 +10,12 @@
 ### 🌟 Sobre Mim
 
 <p align="center">
-  Tenho uma sólida experiência em:
-  - Arquitetura e Gerenciamento de Infraestrutura em Nuvem (AWS e Azure);<br>
-  - Automação de Processos com Ansible e PowerShell;<br>
-  - Monitoramento e Troubleshooting com ferramentas como Zabbix e logs;<br>
-  - Gerenciamento de Redes e Servidores Linux e Windows.<br>
-  
-  Estou constantemente aprendendo e me atualizando, com foco em tecnologias como **Terraform, Kubernetes, Docker** e práticas DevOps.
+  Com mais de uma década de experiência, desenvolvi uma base sólida em infraestrutura tradicional e me especializei em ambientes de nuvem. Minhas principais áreas de expertise incluem:
+  - Arquitetura e Gerenciamento de Infraestrutura em Nuvem (**AWS, Azure** e **OCI**);<br>
+  - Automação de Processos com **Ansible** e **PowerShell**;<br>
+  - Monitoramento e Troubleshooting proativo com ferramentas de análise de logs e performance;<br>
+  - Gerenciamento de Servidores **Linux** e **Windows**, e de Redes complexas.<br>
+  Estou em uma jornada contínua de aprendizado, com foco em tecnologias e práticas que definem o futuro da TI.
 </p>
 
 ---
@@ -24,11 +23,11 @@
 ### 💻 Habilidades
 
 <p align="center">
-  💡 Arquitetura de Soluções Cloud: AWS e Azure.<br>
-  🛠️ Automação e Infraestrutura como Código: Ansible, Terraform, e PowerShell.<br>
-  🔍 Monitoramento: Zabbix, CloudWatch, e logs centralizados.<br>
-  ⚙️ Ferramentas: Docker, Kubernetes, Git.<br>
-  🌐 Protocolos e Redes: DNS, DHCP, HTTP(S), TCP/IP.
+  💡 Arquitetura de Soluções Cloud: **AWS, Azure e OCI**.<br>
+  🛠️ Automação e Infraestrutura como Código: **Ansible, Terraform,** e **PowerShell**.<br>
+  🔍 Monitoramento e Observabilidade: Ferramentas de logs e métricas centralizadas.<br>
+  ⚙️ Ferramentas de Orquestração e Versionamento: **Docker, Kubernetes, Git**.<br>
+  🌐 Redes e Protocolos: **DNS, DHCP, HTTP(S), TCP/IP**.
 </p>
 
 ---
@@ -36,13 +35,18 @@
 ### 📜 Certificações
 
 <p align="center">
-  <strong>AWS Certified Solutions Architect - Associate</strong> (2024 - 2027)<br>
-  <img src="https://raw.githubusercontent.com/bruno0nline/Certification/refs/heads/main/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect - Associate" width="150px"/>
+  <strong>AWS Certified Solutions Architect - Associate</strong> (2024 - 2027)<br>
+  <img src="https://raw.githubusercontent.com/bruno0nline/Certification/refs/heads/main/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect - Associate" width="150px"/>
 </p>
 
 <p align="center">
-  <strong>AWS Certified Cloud Practitioner</strong> (2022 - 2025)<br>
-  <img src="https://raw.githubusercontent.com/bruno0nline/Certification/refs/heads/main/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="150px"/>
+  <strong>AWS Certified Cloud Practitioner</strong> (2022 - 2025)<br>
+  <img src="https://raw.githubusercontent.com/bruno0nline/Certification/refs/heads/main/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="150px"/>
+</p>
+
+<p align="center">
+  <strong>OCI Certified Foundations Associate</strong> (2023)<br>
+  <img src="https://github.com/bruno0nline/My-Certifications/blob/main/OCICERT2023.png?raw=true" alt="Oracle Cloud Infrastructure Certification" width="150px"/>
 </p>
 
 ---
@@ -50,8 +54,7 @@
 ### 🚀 Minha Jornada
 
 <p align="center">
-  Comecei minha trajetória em TI focando em sistemas virtualizados e gerenciamento de servidores. Com o tempo, migrei para a área de Cloud, onde hoje me dedico ao design, implementação e automação de soluções de infraestrutura em Nuvem.
-  Tenho experiência na criação de ambientes robustos, altamente disponíveis e escaláveis, utilizando as melhores práticas de mercado.
+  Minha trajetória em TI começou com foco em sistemas virtualizados e gerenciamento de servidores. Com o tempo, fiz a migração estratégica para a área de Cloud, onde me dedico ao design, implementação e automação de soluções de infraestrutura em nuvem. Tenho experiência na criação de ambientes robustos, altamente disponíveis e escaláveis, utilizando as melhores práticas do mercado para garantir a excelência operacional.
 </p>
 
 ---
@@ -59,10 +62,10 @@
 ### 🌱 O que estou aprendendo agora:
 
 <p align="center">
-  Aprofundando meu conhecimento em:
-  - Kubernetes e Docker para orquestração de containers.<br>
-  - Terraform para provisionamento de infraestrutura como código.<br>
-  - Integração contínua com Jenkins e GitHub Actions.
+  Aprofundando meu conhecimento em:
+  - **Kubernetes e Docker** para orquestração de containers.<br>
+  - **Terraform** para provisionamento de infraestrutura como código.<br>
+  - Integração contínua com **Jenkins e GitHub Actions**.
 </p>
 
 ---
@@ -70,17 +73,17 @@
 ### 💌 Vamos conversar?
 
 <p align="center">
-  Adoro trocar ideias sobre tecnologia, colaborar em projetos ou apenas bater um papo sobre tendências em TI. Fique à vontade para me contatar pelos links abaixo:
+  Adoro trocar ideias sobre tecnologia, colaborar em projetos ou apenas bater um papo sobre as últimas tendências em TI. Fique à vontade para me contatar pelos links abaixo:
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/bruno0nline/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/brunomendesaugusto/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
+  <a href="https://www.instagram.com/bruno0nline/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/brunomendesaugusto/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -88,6 +91,6 @@
 ### 🌟 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bruno0nline&show_icons=true&theme=tokyonight&line_height=27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno0nline&hide=css,html&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=bruno0nline&show_icons=true&theme=tokyonight&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno0nline&hide=css,html&theme=tokyonight">
 </p>
