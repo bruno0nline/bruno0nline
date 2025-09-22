@@ -24,7 +24,7 @@
 
 <p align="center">
   💡 Arquitetura de Soluções Cloud: **AWS, Azure e OCI**.<br>
-  🛠️ Automação e Infraestrutura como Código: **Ansible, Terraform,** e **PowerShell**.<br>
+  🛠️ Automação e Infraestrutura como Código: **Bash, Ansible, Terraform,** e **PowerShell**.<br>
   🔍 Monitoramento e Observabilidade: Ferramentas de logs e métricas centralizadas.<br>
   ⚙️ Ferramentas de Orquestração e Versionamento: **Docker, Kubernetes, Git**.<br>
   🌐 Redes e Protocolos: **DNS, DHCP, HTTP(S), TCP/IP**.
@@ -45,8 +45,8 @@
 </p>
 
 <p align="center">
-  <strong>OCI Certified Foundations Associate</strong> (2023)<br>
-  <img src="https://github.com/bruno0nline/My-Certifications/blob/main/OCICERT2023.png?raw=true" alt="Oracle Cloud Infrastructure Certification" width="150px"/>
+<strong>OCI Certified Foundations Associate</strong> (2023)<br>
+<img src="https://github.com/bruno0nline/My-Certifications/blob/main/oci-certified-foundations-associate2023.png?raw=true" alt="Oracle Cloud Infrastructure Certification" width="150px"/>
 </p>
 
 ---
