@@ -41,9 +41,6 @@
 <a href="https://github.com/bruno0nline/My-Certifications/blob/main/aws-certified-cloud-practitioner.png?raw=true" alt="AWS Cloud Practitioner">
 <img src="https://github.com/bruno0nline/My-Certifications/blob/main/aws-certified-cloud-practitioner.png?raw=true" width="200px">
 </a>
-<a href="https://github.com/bruno0nline/My-Certifications/blob/main/oci-certified-foundations-associate2023.png?raw=true" alt="OCI Certified Foundations Associate">
-<img src="https://github.com/bruno0nline/My-Certifications/blob/main/oci-certified-foundations-associate2023.png?raw=true" width="200px">
-</a>
 </p>
 
 ---
