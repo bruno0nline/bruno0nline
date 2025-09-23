@@ -35,18 +35,15 @@
 ### 📜 Certificações
 
 <p align="center">
-<strong>AWS Certified Solutions Architect - Associate</strong> (2024 - 2027)<br>
-<img src="https://raw.githubusercontent.com/bruno0nline/Certification/refs/heads/main/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect - Associate" width="150px"/>
-</p>
-
-<p align="center">
-<strong>AWS Certified Cloud Practitioner</strong> (2022 - 2025)<br>
-<img src="https://raw.githubusercontent.com/bruno0nline/Certification/refs/heads/main/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="150px"/>
-</p>
-
-<p align="center">
-<strong>OCI Certified Foundations Associate</strong> (2023)<br>
-<img src="https://github.com/bruno0nline/My-Certifications/blob/main/oci-certified-foundations-associate2023.png?raw=true" alt="Oracle Cloud Infrastructure Certification" width="150px"/>
+<a href="https://raw.githubusercontent.com/bruno0nline/My-Certifications/blob/main/aws-certified-solutions-architect-associate.png?raw=true" alt="AWS Solutions Architect Associate">
+<img src="https://raw.githubusercontent.com/bruno0nline/My-Certifications/blob/main/aws-certified-solutions-architect-associate.png?raw=true" width="150px">
+</a>
+<a href="https://raw.githubusercontent.com/bruno0nline/My-Certifications/blob/main/aws-certified-cloud-practitioner.png?raw=true" alt="AWS Cloud Practitioner">
+<img src="https://raw.githubusercontent.com/bruno0nline/My-Certifications/blob/main/aws-certified-cloud-practitioner.png?raw=true" width="150px">
+</a>
+<a href="https://github.com/bruno0nline/My-Certifications/blob/main/oci-certified-foundations-associate2023.png?raw=true" alt="OCI Certified Foundations Associate">
+<img src="https://github.com/bruno0nline/My-Certifications/blob/main/oci-certified-foundations-associate2023.png?raw=true" width="150px">
+</a>
 </p>
 
 ---
