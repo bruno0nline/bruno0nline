@@ -35,11 +35,11 @@
 ### 📜 Certificações
 
 <p align="center">
-<a href="https://raw.githubusercontent.com/bruno0nline/My-Certifications/blob/main/aws-certified-solutions-architect-associate.png?raw=true" alt="AWS Solutions Architect Associate">
-<img src="https://raw.githubusercontent.com/bruno0nline/My-Certifications/blob/main/aws-certified-solutions-architect-associate.png?raw=true" width="150px">
+<a href="https://github.com/bruno0nline/My-Certifications/blob/main/aws-certified-solutions-architect-associate.png?raw=true" alt="AWS Solutions Architect Associate">
+<img src="https://github.com/bruno0nline/My-Certifications/blob/main/aws-certified-solutions-architect-associate.png?raw=true" width="150px">
 </a>
-<a href="https://raw.githubusercontent.com/bruno0nline/My-Certifications/blob/main/aws-certified-cloud-practitioner.png?raw=true" alt="AWS Cloud Practitioner">
-<img src="https://raw.githubusercontent.com/bruno0nline/My-Certifications/blob/main/aws-certified-cloud-practitioner.png?raw=true" width="150px">
+<a href="https://github.com/bruno0nline/My-Certifications/blob/main/aws-certified-cloud-practitioner.png?raw=true" alt="AWS Cloud Practitioner">
+<img src="https://github.com/bruno0nline/My-Certifications/blob/main/aws-certified-cloud-practitioner.png?raw=true" width="150px">
 </a>
 <a href="https://github.com/bruno0nline/My-Certifications/blob/main/oci-certified-foundations-associate2023.png?raw=true" alt="OCI Certified Foundations Associate">
 <img src="https://github.com/bruno0nline/My-Certifications/blob/main/oci-certified-foundations-associate2023.png?raw=true" width="150px">
