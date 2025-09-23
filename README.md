@@ -11,10 +11,10 @@
 
 <p align="center">
   Com mais de uma década de experiência, desenvolvi uma base sólida em infraestrutura tradicional e me especializei em ambientes de nuvem. Minhas principais áreas de expertise incluem:
-  - Arquitetura e Gerenciamento de Infraestrutura em Nuvem (**AWS, Azure** e **OCI**);<br>
-  - Automação de Processos com **Ansible** e **PowerShell**;<br>
+  - Arquitetura e Gerenciamento de Infraestrutura em Nuvem (AWS, Azure e OCI);<br>
+  - Automação de Processos com Bash e Powershell e Ansible e AWX;<br>
   - Monitoramento e Troubleshooting proativo com ferramentas de análise de logs e performance;<br>
-  - Gerenciamento de Servidores **Linux** e **Windows**, e de Redes complexas.<br>
+  - Gerenciamento de Servidores Linux e Windows, e de Redes complexas.<br>
   Estou em uma jornada contínua de aprendizado, com foco em tecnologias e práticas que definem o futuro da TI.
 </p>
 
@@ -23,11 +23,11 @@
 ### 💻 Habilidades
 
 <p align="center">
-  💡 Arquitetura de Soluções Cloud: **AWS, Azure e OCI**.<br>
-  🛠️ Automação e Infraestrutura como Código: **Bash, Ansible, Terraform,** e **PowerShell**.<br>
+  💡 Arquitetura de Soluções Cloud: AWS, Azure e OCI.<br>
+  🛠️ Automação e Infraestrutura como Código: Ansible, Terraform.<br>
   🔍 Monitoramento e Observabilidade: Ferramentas de logs e métricas centralizadas.<br>
-  ⚙️ Ferramentas de Orquestração e Versionamento: **Docker, Kubernetes, Git**.<br>
-  🌐 Redes e Protocolos: **DNS, DHCP, HTTP(S), TCP/IP**.
+  ⚙️ Ferramentas de Orquestração e Versionamento: Git, Docker, Kubernetes.<br>
+  🌐 Redes e Protocolos: DNS, DHCP, HTTP(S), TCP/IP, Telnet, Traceroute.
 </p>
 
 ---
@@ -63,9 +63,9 @@
 
 <p align="center">
   Aprofundando meu conhecimento em:
-  - **Kubernetes e Docker** para orquestração de containers.<br>
-  - **Terraform** para provisionamento de infraestrutura como código.<br>
-  - Integração contínua com **Jenkins e GitHub Actions**.
+  - Kubernetes e Docker para orquestração de containers.<br>
+  - Terraform para provisionamento de infraestrutura como código.<br>
+  - Integração contínua com Jenkins e GitHub Actions.
 </p>
 
 ---
