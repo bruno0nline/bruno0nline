@@ -43,10 +43,10 @@
   </a>
 
   <a href="https://github.com/bruno0nline/My-Certifications/blob/main/OCI25FNDCFAV1.png?raw=true" alt="OCI Certified Foundations Associate">
-    <img src="https://github.com/bruno0nline/My-Certifications/blob/main/OCI25FNDCFAV1.png?raw=true" width="200px" title="OCI Certified Foundations Associate (2025)">
+    <img src="https://github.com/bruno0nline/My-Certifications/blob/main/OCI25FNDCFAV1.png?raw=true" width="300px" title="OCI Certified Foundations Associate (2025)">
   </a>
   <a href="https://github.com/bruno0nline/My-Certifications/blob/main/OCI25CAA.png?raw=true" alt="OCI Certified Architect Associate">
-    <img src="https://github.com/bruno0nline/My-Certifications/blob/main/OCI25CAA.png?raw=true" width="200px" title="OCI Certified Architect Associate (2025)">
+    <img src="https://github.com/bruno0nline/My-Certifications/blob/main/OCI25CAA.png?raw=true" width="300px" title="OCI Certified Architect Associate (2025)">
   </a>
 </p>
 
