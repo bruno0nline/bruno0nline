@@ -39,6 +39,9 @@
 <img src="https://github.com/bruno0nline/My-Certifications/blob/main/aws-certified-cloud-practitioner.png?raw=true" width="200px" title="AWS Certified Cloud Practitioner"></a>
 <a href="https://github.com/bruno0nline/My-Certifications/blob/main/aws-certified-solutions-architect-associate.png?raw=true" alt="AWS Solutions Architect Associate">
 <img src="https://github.com/bruno0nline/My-Certifications/blob/main/aws-certified-solutions-architect-associate.png?raw=true" width="200px" title="AWS Certified Solutions Architect - Associate"></a>
+</p>
+
+<p align="center">
 <a href="https://github.com/bruno0nline/My-Certifications/blob/main/OCI25FNDCFAV1.png?raw=true" alt="OCI Certified Foundations Associate">
 <img src="https://github.com/bruno0nline/My-Certifications/blob/main/OCI25FNDCFAV1.png?raw=true" width="400px" title="OCI Certified Foundations Associate (2025)"></a>
 <a href="https://github.com/bruno0nline/My-Certifications/blob/main/OCI25CAA.png?raw=true" alt="OCI Certified Architect Associate">
