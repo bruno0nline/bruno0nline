@@ -1,7 +1,7 @@
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Bem-vindo ao meu GitHub!
 
 <p align="center">
-  Olá! Eu sou Bruno, um <strong>Cloud Architect | Infrastructure Analyst & Site Reliability Engineer</strong> apaixonado por <strong>Cloud Computing</strong> e <strong>DevOps</strong>.<br>
+  Olá! Eu sou o Bruno, analista <strong>Cloud Architect | Infrastructure Analyst & Site Reliability Engineer</strong> apaixonado por <strong>Cloud Computing</strong> e <strong>DevOps</strong>.<br>
   Atualmente, minha missão é impulsionar a transformação digital, ajudando empresas a construir e gerenciar infraestruturas de nuvem escaláveis, seguras e de alto desempenho.
 </p>
 
