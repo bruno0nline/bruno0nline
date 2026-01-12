@@ -1,7 +1,7 @@
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Bem-vindo ao meu GitHub!
 
 <p align="center">
-  Olá! Eu sou o Bruno, analista <strong>Cloud Architect | Infrastructure Analyst & Site Reliability Engineer</strong> apaixonado por <strong>Cloud Computing</strong> e <strong>DevOps</strong>.<br>
+  Olá! Eu sou o Bruno, consultor e analista <strong>Cloud Architect | Infrastructure Analyst & Site Reliability Engineer</strong> apaixonado por <strong>Cloud Computing</strong> e <strong>DevOps</strong>.<br>
   Atualmente, minha missão é impulsionar a transformação digital, ajudando empresas a construir e gerenciar infraestruturas de nuvem escaláveis, seguras e de alto desempenho.
 </p>
 
@@ -11,8 +11,8 @@
 
 <p align="center">
   Com mais de uma década de experiência, desenvolvi uma base sólida em infraestrutura tradicional e me especializei em ambientes de nuvem. Minhas principais áreas de expertise incluem:
-  - Arquitetura e Gerenciamento de Infraestrutura em Nuvem (AWS, Azure e OCI);<br>
-  - Automação de Processos com Bash e Powershell e Ansible e AWX;<br>
+  - Arquitetura e Gerenciamento de Infraestrutura em Nuvem Multicloud (AWS, Azure e OCI);<br>
+  - Automação de Processos com Bash, Powershell, Ansible e AWX;<br>
   - Monitoramento e Troubleshooting proativo com ferramentas de análise de logs e performance;<br>
   - Gerenciamento de Servidores Linux e Windows, e de Redes complexas.<br>
   Estou em uma jornada contínua de aprendizado, com foco em tecnologias e práticas que definem o futuro da TI.
