@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Bruno Mendes Augusto
+#  Bruno Mendes Augusto
 
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
