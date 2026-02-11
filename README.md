@@ -10,7 +10,7 @@
 [![OCI](https://img.shields.io/badge/OCI-Cloud_Architect-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/bruno0nline/My-Certifications)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunomendesaugusto/)
 
-**Transformando infraestrutura em código | Otimizando custos cloud | Automatizando o impossível**
+**Transformando infraestrutura em código | Otimizando custos cloud | Automatizando o que é preciso**
 
 </div>
 
