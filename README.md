@@ -1,95 +1,286 @@
-### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Bem-vindo ao meu GitHub!
+<div align="center">
 
-<p align="center">
-  Olá! Eu sou o Bruno, consultor e analista <strong>Cloud Architect | Infrastructure Analyst & Site Reliability Engineer</strong> apaixonado por <strong>Cloud Computing</strong> e <strong>DevOps</strong>.<br>
-  Atualmente, minha missão é impulsionar a transformação digital, ajudando empresas a construir e gerenciar infraestruturas de nuvem escaláveis, seguras e de alto desempenho.
-</p>
+# 👋 Bruno Mendes Augusto
 
----
+### Cloud Solutions Architect | Infrastructure Specialist | SRE
 
-### 🌟 Sobre Mim
+[![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/bruno0nline/My-Certifications)
+[![OCI](https://img.shields.io/badge/OCI-Cloud_Architect-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/bruno0nline/My-Certifications)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunomendesaugusto/)
 
-<p align="center">
-  Com mais de uma década de experiência, desenvolvi uma base sólida em infraestrutura tradicional e me especializei em ambientes de nuvem. Minhas principais áreas de expertise incluem:
-  - Arquitetura e Gerenciamento de Infraestrutura em Nuvem Multicloud (AWS, Azure e OCI);<br>
-  - Automação de Processos com Bash, Powershell, Ansible e AWX;<br>
-  - Monitoramento e Troubleshooting proativo com ferramentas de análise de logs e performance;<br>
-  - Gerenciamento de Servidores Linux e Windows, e de Redes complexas.<br>
-  Estou em uma jornada contínua de aprendizado, com foco em tecnologias e práticas que definem o futuro da TI.
-</p>
+**Transformando infraestrutura em código | Otimizando custos cloud | Automatizando o impossível**
 
----
-
-### 💻 Habilidades
-
-<p align="center">
-  💡 Arquitetura de Soluções Cloud: AWS, Azure e OCI.<br>
-  🛠️ Automação e Infraestrutura como Código: Ansible, Terraform.<br>
-  🔍 Monitoramento e Observabilidade: Ferramentas de logs e métricas centralizadas.<br>
-  ⚙️ Ferramentas de Orquestração e Versionamento: Git, Docker, Kubernetes.<br>
-  🌐 Redes e Protocolos: DNS, DHCP, HTTP(S), TCP/IP, Telnet, Traceroute.
-</p>
-
----
-
-### 📜 Certificações
-
-<div>
-<a href="https://github.com/bruno0nline/My-Certifications/blob/main/aws-certified-cloud-practitioner.png?raw=true" alt="AWS Cloud Practitioner">
-<img src="https://github.com/bruno0nline/My-Certifications/blob/main/aws-certified-cloud-practitioner.png?raw=true" width="200px" title="AWS Certified Cloud Practitioner"></a>
-<a href="https://github.com/bruno0nline/My-Certifications/blob/main/aws-certified-solutions-architect-associate.png?raw=true" alt="AWS Solutions Architect Associate">
-<img src="https://github.com/bruno0nline/My-Certifications/blob/main/aws-certified-solutions-architect-associate.png?raw=true" width="200px" title="AWS Certified Solutions Architect - Associate"></a>
-</div>
-
-<div>
-<a href="https://github.com/bruno0nline/My-Certifications/blob/main/OCI25FNDCFAV1.png?raw=true" alt="OCI Certified Foundations Associate">
-<img src="https://github.com/bruno0nline/My-Certifications/blob/main/OCI25FNDCFAV1.png?raw=true" width="400px" title="OCI Certified Foundations Associate (2025)"></a>
-<a href="https://github.com/bruno0nline/My-Certifications/blob/main/OCI25CAA.png?raw=true" alt="OCI Certified Architect Associate">
-<img src="https://github.com/bruno0nline/My-Certifications/blob/main/OCI25CAA.png?raw=true" width="400px" title="OCI Certified Architect Associate (2025)"></a>
 </div>
 
 ---
 
-### 🚀 Minha Jornada
+## 🎯 Sobre Mim
 
-<p align="center">
-  Minha trajetória em TI começou com foco em sistemas virtualizados e gerenciamento de servidores. Com o tempo, fiz a migração estratégica para a área de Cloud, onde me dedico ao design, implementação e automação de soluções de infraestrutura em nuvem. Tenho experiência na criação de ambientes robustos, altamente disponíveis e escaláveis, utilizando as melhores práticas do mercado para garantir a excelência operacional.
-</p>
+Especialista em **Cloud Computing** com mais de uma década de experiência, focado em arquitetura de soluções, automação e otimização de custos. Apaixonado por transformar desafios complexos em soluções elegantes e escaláveis.
 
----
-
-### 🌱 O que estou aprendendo agora:
-
-<p align="center">
-  Aprofundando meu conhecimento em:
-  - Kubernetes e Docker para orquestração de containers.<br>
-  - Terraform para provisionamento de infraestrutura como código.<br>
-  - Integração contínua com Jenkins e GitHub Actions.
-</p>
+```yaml
+especialidades:
+  cloud_providers: [AWS, Oracle Cloud (OCI), Azure]
+  arquitetura: [Multi-Cloud, Hybrid Cloud, Serverless, Microservices]
+  automacao: [Ansible, Terraform, CloudFormation, CDK]
+  finops: [Cost Optimization, Right-Sizing, Reserved Instances]
+  seguranca: [IAM, Security Assessment, Compliance, Least Privilege]
+  devops: [CI/CD, GitHub Actions, Containers, Kubernetes]
+```
 
 ---
 
-### 💌 Vamos conversar?
+## 🏆 Certificações
 
-<p align="center">
-  Adoro trocar ideias sobre tecnologia, colaborar em projetos ou apenas bater um papo sobre as últimas tendências em TI. Fique à vontade para me contatar pelos links abaixo:
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.instagram.com/bruno0nline/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/brunomendesaugusto/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-</p>
+### 🌟 AWS Certified Solutions Architect - Professional
+
+<a href="https://www.credly.com/badges/4ce56977-c4e1-4187-b05d-d814ba804cfd/public_url">
+<img src="https://github.com/bruno0nline/My-Certifications/blob/main/aws/badges/aws-certified-solutions-architect-professional.png?raw=true" width="150px" title="AWS Solutions Architect Professional"/>
+</a>
+
+### AWS Certifications
+
+<a href="https://www.credly.com/badges/b99593c0-973a-46d7-81c3-7bb17d72ca49/public_url">
+<img src="https://github.com/bruno0nline/My-Certifications/blob/main/aws/badges/aws-certified-solutions-architect-associate.png?raw=true" width="120px" title="AWS Solutions Architect Associate"/>
+</a>
+<a href="https://www.credly.com/badges/3b863cdf-0bce-484f-97fc-62351a0a3939/public_url">
+<img src="https://github.com/bruno0nline/My-Certifications/blob/main/aws/badges/aws-certified-cloud-practitioner.png?raw=true" width="120px" title="AWS Cloud Practitioner"/>
+</a>
+
+### Oracle Cloud Infrastructure (OCI)
+
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=FB761F6E88648B2E40928DF63FBBCB10FC8A3D82E3ACAE9A92E67460B336B9EB">
+<img src="https://github.com/bruno0nline/My-Certifications/blob/main/oci/badges/OCI25CAA.png?raw=true" width="150px" title="OCI Cloud Architect Associate"/>
+</a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B490B534CA35F90791109C9A2BE8FD9CC8CDDC871C5B07838AC9D0560270C7CB">
+<img src="https://github.com/bruno0nline/My-Certifications/blob/main/oci/badges/OCI25FNDCFAV1.png?raw=true" width="150px" title="OCI Foundations Associate"/>
+</a>
+
+**[📜 Ver Todas as Certificações →](https://github.com/bruno0nline/My-Certifications)**
+
+</div>
 
 ---
 
-### 🌟 Estatísticas do GitHub
+## 💼 Projetos em Destaque
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bruno0nline&show_icons=true&theme=tokyonight&line_height=27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno0nline&hide=css,html&theme=tokyonight">
-</p>
+### 🚀 Automação & Infraestrutura
+
+<table>
+<tr>
+<td width="50%">
+
+#### [InfraOps-AWX](https://github.com/bruno0nline/InfraOps-AWX)
+Automação completa de infraestrutura com AWX/Ansible
+- ✅ Integração com Active Directory
+- ✅ Provisionamento automatizado
+- ✅ Gerenciamento centralizado
+
+</td>
+<td width="50%">
+
+#### [GitHubActions-AWS](https://github.com/bruno0nline/GitHubActions-AWS)
+Deploy automatizado com GitHub Actions
+- ✅ CI/CD para AWS
+- ✅ Infraestrutura como código
+- ✅ Pipelines automatizados
+
+</td>
+</tr>
+</table>
+
+### 💰 FinOps & Otimização
+
+<table>
+<tr>
+<td width="50%">
+
+#### [OCI FinOps Analyzer](https://github.com/bruno0nline/OCI_FinOps_Analyzer)
+Análise e otimização de custos OCI
+- 💰 Economia média de 30-50%
+- 📊 Relatórios executivos
+- 🤖 Recomendações automáticas
+
+</td>
+<td width="50%">
+
+#### [OCI-Relatorio-Backups](https://github.com/bruno0nline/OCI-Relatorio-Backups)
+Monitoramento de backups OCI
+- 📋 Relatórios automatizados
+- ✅ Compliance tracking
+- 🔔 Alertas proativos
+
+</td>
+</tr>
+</table>
+
+### 🔒 Segurança Cloud
+
+<table>
+<tr>
+<td width="33%">
+
+**[Prowler](https://github.com/bruno0nline/prowler)**
+Security assessment multi-cloud
+
+</td>
+<td width="33%">
+
+**[CloudSplaining](https://github.com/bruno0nline/cloudsplaining)**
+Análise de segurança IAM
+
+</td>
+<td width="33%">
+
+**[CloudMapper](https://github.com/bruno0nline/cloudmapper)**
+Visualização de ambientes AWS
+
+</td>
+</tr>
+</table>
+
+### ⚡ Serverless & Containers
+
+<table>
+<tr>
+<td width="50%">
+
+**[Lambda URL Shortener](https://github.com/bruno0nline/lambda-url-shortener)**
+Serverless URL shortener (Lambda + API Gateway + DynamoDB)
+
+</td>
+<td width="50%">
+
+**[ECS Fargate Node](https://github.com/bruno0nline/ecs-fargate-node-hello-world)**
+Aplicação Node.js em containers serverless
+
+</td>
+</tr>
+</table>
+
+**[🔗 Ver Todos os Projetos →](https://github.com/bruno0nline?tab=repositories)**
+
+---
+
+## 🛠️ Stack Tecnológico
+
+<div align="center">
+
+### Cloud Providers
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
+
+### CI/CD & DevOps
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### Monitoring & Observability
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno0nline&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno0nline&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🎯 Áreas de Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### ☁️ Cloud Architecture
+- Design de arquiteturas multi-cloud
+- Migração para cloud (lift-and-shift, re-platform, refactor)
+- Disaster Recovery & Business Continuity
+- High Availability & Auto-scaling
+
+### 💰 FinOps
+- Otimização de custos (30-50% economia)
+- Right-sizing de recursos
+- Reserved Instances & Savings Plans
+- Cost allocation & chargeback
+
+</td>
+<td width="50%">
+
+### 🔒 Security & Compliance
+- IAM & Identity Management
+- Security assessments & audits
+- Compliance (CIS, NIST, PCI-DSS, GDPR)
+- Least privilege policies
+
+### 🤖 Automation & DevOps
+- Infrastructure as Code (IaC)
+- CI/CD pipelines
+- Configuration management
+- Container orchestration
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌱 Aprendizado Contínuo
+
+Atualmente focado em:
+
+- 🎓 **Kubernetes avançado** - CKA/CKAD preparation
+- 🎓 **AWS DevOps Professional** - Next certification
+- 🎓 **Terraform Advanced** - Multi-cloud IaC
+- 🎓 **FinOps Certified Practitioner** - Cost optimization
+
+---
+
+## 📫 Vamos Conectar?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bruno_Mendes_Augusto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunomendesaugusto/)
+[![Email](https://img.shields.io/badge/Email-brunomendesaugusto@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunomendesaugusto@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@bruno0nline-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno0nline/)
+[![GitHub](https://img.shields.io/badge/GitHub-bruno0nline-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bruno0nline)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Transformando complexidade em simplicidade, um commit por vez"
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=bruno0nline.bruno0nline)
+![Profile Views](https://komarev.com/ghpvc/?username=bruno0nline&color=blueviolet&style=flat-square)
+
+</div>
