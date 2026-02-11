@@ -2,6 +2,8 @@
 
 # 👋 Bruno Mendes Augusto
 
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+
 ### Cloud Solutions Architect | Infrastructure Specialist | SRE
 
 [![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/bruno0nline/My-Certifications)
