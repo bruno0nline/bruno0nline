@@ -16,10 +16,12 @@
 
 ## 🎯 Sobre Mim
 
-Especialista em **Cloud Computing** com mais de uma década de experiência, focado em arquitetura de soluções, automação e otimização de custos. Apaixonado por transformar desafios complexos em soluções elegantes e escaláveis.
+Profissional de **Cloud Computing** com mais de uma década de experiência em infraestrutura tradicional e ambientes de nuvem. Atualmente focado em arquitetura de soluções, automação e otimização de custos, ajudando empresas a construir e gerenciar infraestruturas escaláveis, seguras e de alto desempenho.
+
+Minha missão é impulsionar a transformação digital através de soluções cloud eficientes e inovadoras.
 
 ```yaml
-especialidades:
+areas_de_atuacao:
   cloud_providers: [AWS, Oracle Cloud (OCI), Azure]
   arquitetura: [Multi-Cloud, Hybrid Cloud, Serverless, Microservices]
   automacao: [Ansible, Terraform, CloudFormation, CDK]
@@ -206,8 +208,10 @@ Aplicação Node.js em containers serverless
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno0nline&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno0nline&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno0nline&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno0nline&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bruno0nline&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
